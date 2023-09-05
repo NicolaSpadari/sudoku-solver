@@ -1,12 +1,14 @@
-<h1 align="center">Personal Nuxt 3 template</h1>
+# Sudoku solver
+
+A simple app to solve sudoku
+
 <hr />
 
-## Usage
+### Technologies:
 
-Clone to local:
-```sh
-$ npx degit NicolaSpadari/nuxt-template my-nuxt-app
-```
+- Nuxt 3
+- TypeScript
+- UnoCSS
 
 Install dependencies:
 ```sh
